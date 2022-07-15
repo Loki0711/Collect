@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "286480061663",
+    "project_id": "fir-cc6f3",
+    "storage_bucket": "fir-cc6f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286480061663:android:38d169d84402e4b9c9456a",
+        "android_client_info": {
+          "package_name": "com.example.androidproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286480061663-1kllk5vg2si682538ctd6mel4ps4i3p0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNNmVQi4Lde6fZGj9NfXJljU_wDKR-Z7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286480061663-1kllk5vg2si682538ctd6mel4ps4i3p0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "286480061663-5504nqqpuue72iiuujh2naa2d3kcr8tg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.himani.Firebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

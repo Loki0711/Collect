@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Android Project</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="history">History</string>
+    <string name="enter_pickup_location">Enter pickup location</string>
+    <string name="request_pickup">Request Pickup</string>
+
+    <string name="add_new_request">Add New Request</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="all_requests">All Requests</string>
+    <string name="are_you_sure_you_want_to_logout">Are you sure, you want to logout?</string>
+    <string name="logout">Logout</string>
+    <string name="cancel">Cancel</string>
+    <string name="garbage_type">Garbage Type :</string>
+    <string name="producer_details">Producer Details</string>
+    <string name="Address">Address :</string>
+    <string name="picked">Picked</string>
+</resources>
